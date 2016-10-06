@@ -1,0 +1,96 @@
+[
+    {
+        "category": "thuc-pham",
+        "urls": [
+            "https://www.adayroi.com/banh-my-banh-ngot-m592",
+            "https://www.adayroi.com/thuc-pham-tuoi-m595",
+            "https://www.adayroi.com/trung-m612",
+            "https://www.adayroi.com/sua-kem-san-pham-tu-sua-m617",
+            "https://www.adayroi.com/rau-cu-qua-m639",
+            "https://www.adayroi.com/thuc-pham-dong-lanh-bao-quan-mat-m649",
+            "https://www.adayroi.com/hoa-tuoi-m658",
+            "https://www.adayroi.com/do-hop-do-lo-m664",
+            "https://www.adayroi.com/thuc-pham-kho-m670",
+            "https://www.adayroi.com/gao-ngu-coc-bot-m683",
+            "https://www.adayroi.com/thuc-pham-bo-duong-m692",
+            "https://www.adayroi.com/banh-keo-do-an-vat-giai-khat-m696"
+        ]
+    },
+    {
+        "category": "mobile-tablet",
+        "urls": [
+            "https://www.adayroi.com/mobile-tablet-m322"
+        ]
+    },
+    {
+        "category": "dien-gia-dung",
+        "urls": [
+            "https://www.adayroi.com/dien-gia-dung-m1773"
+        ]
+    },
+    {
+        "category": "dien-tu-cong-nghe",
+        "urls": [
+            "https://www.adayroi.com/dien-thoai-may-tinh-bang-m322",
+            "https://www.adayroi.com/may-tinh-linh-phu-kien-m349",
+            "https://www.adayroi.com/thiet-bi-nha-bep-m496",
+            "https://www.adayroi.com/thiet-bi-an-ninh-m581",
+            "https://www.adayroi.com/dien-tu-ky-thuat-so-m1772",
+            "https://www.adayroi.com/dien-may-dien-lanh-dien-gia-dung-m1773"
+        ]
+    },
+    {
+        "category": "suc-khoe-sac-dep",
+        "urls": [
+            "https://www.adayroi.com/trang-diem-m140",
+            "https://www.adayroi.com/nuoc-hoa-m169",
+            "https://www.adayroi.com/cham-soc-mat-m173",
+            "https://www.adayroi.com/cham-soc-toc-m197",
+            "https://www.adayroi.com/cham-soc-toan-than-m211",
+            "https://www.adayroi.com/my-pham-danh-cho-nam-m225",
+            "https://www.adayroi.com/cham-soc-ca-nhan-suc-khoe-m242",
+            "https://www.adayroi.com/tinh-dau-spa-m270",
+            "https://www.adayroi.com/vitamin-thuc-pham-chuc-nang-m287",
+            "https://www.adayroi.com/dung-cu-the-thao-m2067"
+        ]
+    },
+    {
+        "category": "me-be",
+        "urls": [
+            "https://www.adayroi.com/sua-bot-cho-be-m715",
+            "https://www.adayroi.com/do-dung-an-uong-cho-be-m732",
+            "https://www.adayroi.com/ve-sinh-cham-soc-cho-be-m748",
+            "https://www.adayroi.com/quan-ao-so-sinh-duoi-36-thang-tuoi-m780",
+            "https://www.adayroi.com/do-choi-do-dung-tre-em-m789",
+            "https://www.adayroi.com/xe-cac-thiet-bi-an-toan-m828",
+            "https://www.adayroi.com/thoi-trang-cho-me-m842",
+            "https://www.adayroi.com/cham-soc-cho-me-m851"
+        ]
+    },
+    {
+        "category": "sach-van-phong-pham",
+        "urls": [
+            "https://www.adayroi.com/sach-m1384",
+            "https://www.adayroi.com/bang-dia-m1394",
+            "https://www.adayroi.com/van-phong-pham-m1428",
+            "https://www.adayroi.com/qua-tang-m1468",
+            "https://www.adayroi.com/sach-ngoai-van-m1635"
+        ]
+    },
+    {
+        "category": "nha-cua-doi-song",
+        "urls": [
+            "https://www.adayroi.com/do-dung-gia-dinh-m862",
+            "https://www.adayroi.com/noi-that-m1107",
+            "https://www.adayroi.com/da-ngoai-m1190",
+            "https://www.adayroi.com/nhac-cu-m1823"
+        ]
+    },
+    {
+        "category": "thoi-trang",
+        "urls": [
+            "https://www.adayroi.com/thoi-trang-nu-m2",
+            "https://www.adayroi.com/thoi-trang-nam-m81"
+        ]
+    }
+]
